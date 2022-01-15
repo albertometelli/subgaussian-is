@@ -38,7 +38,7 @@ Bibtex:
 ```
 @incollection{metelli2021subgaussian,
 	author    = {Alberto Maria Metelli and Alessio Russo and Marcello Restelli},
-	title	  ={Subgaussian and Differentiable Importance Sampling for Off-Policy Evaluation and Learning},
+	title	  = {Subgaussian and Differentiable Importance Sampling for Off-Policy Evaluation and Learning},
 	booktitle = {Advances in Neural Information Processing Systems 34 (NeurIPS)},
 	year      = {2021},
 }
