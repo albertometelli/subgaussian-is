@@ -2,8 +2,8 @@
 
 - This repository contains the code to run the experiments of our paper:
 
-Alberto Maria Metelli, Alessio Russo, and Marcello Restelli
-**Subgaussian and Differentiable Importance Sampling for Off-Policy Evaluation and Learning**
+Alberto Maria Metelli, Alessio Russo, and Marcello Restelli<br>
+**Subgaussian and Differentiable Importance Sampling for Off-Policy Evaluation and Learning**<br>
 In Advances in Neural Information Processing Systems 34 (NeurIPS). 2021. [[Paper]](https://papers.nips.cc/paper/2021/hash/4476b929e30dd0c4e8bdbcc82c6ba23a-Abstract.html)
 
 - The code builds upon the **Open Bandit Pipeline** [https://github.com/st-tech/zr-obp](https://github.com/st-tech/zr-obp)
@@ -38,7 +38,7 @@ Bibtex:
 ```
 @incollection{metelli2021subgaussian,
 	author    = {Alberto Maria Metelli and Alessio Russo and Marcello Restelli},
-	title={Subgaussian and Differentiable Importance Sampling for Off-Policy Evaluation and Learning},
+	title	  ={Subgaussian and Differentiable Importance Sampling for Off-Policy Evaluation and Learning},
 	booktitle = {Advances in Neural Information Processing Systems 34 (NeurIPS)},
 	year      = {2021},
 }
