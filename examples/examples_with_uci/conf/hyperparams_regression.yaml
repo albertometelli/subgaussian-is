@@ -1,0 +1,13 @@
+lightgbm:
+  max_iter: 30
+  learning_rate: 0.01
+  max_depth: 5
+  min_samples_leaf: 10
+  random_state: 12345
+linear_regression:
+  normalize: True
+random_forest:
+  n_estimators: 30
+  max_depth: 5
+  min_samples_leaf: 10
+  random_state: 12345
